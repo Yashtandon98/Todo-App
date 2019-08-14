@@ -1,6 +1,6 @@
-# todo
+# Todo-App
 
-A new Flutter project.
+A Todo app completely build with flutter. The App still needs some cosmetic changes.
 
 ## Getting Started
 
